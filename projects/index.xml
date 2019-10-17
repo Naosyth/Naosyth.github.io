@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Brandon Worl&#39;s Portfolio</title>
-    <link>http://example.org/projects/</link>
+    <link>https://naosyth.github.io/projects/</link>
     <description>Recent content in Projects on Brandon Worl&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Jan 2019 12:00:00 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naosyth.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PUBGderboards</title>
-      <link>http://example.org/projects/pubgderboards/</link>
+      <link>https://naosyth.github.io/projects/pubgderboards/</link>
       <pubDate>Mon, 14 Jan 2019 12:00:00 -0700</pubDate>
       
-      <guid>http://example.org/projects/pubgderboards/</guid>
+      <guid>https://naosyth.github.io/projects/pubgderboards/</guid>
       <description>PUBGderboards on Github PUBGderboards.com
 About This Project PUBGderboards is a leaderboard website for the popular battle royale videogame PlayerUnknown&amp;rsquo;s Battle Grounds. PUBGderboards is one of PUBG&amp;rsquo;s featured apps. It allows players to see how they compare to other players from multiple platforms, either on a per-season basis or aggregated across all recorded seasons. At the time of its release, PUBGderboards was the only app that had the ability to combine stats from all seasons, since this was not yet built in to the PUBG developer API.</description>
     </item>
     
     <item>
       <title>Flight Assist</title>
-      <link>http://example.org/projects/flight-assist/</link>
+      <link>https://naosyth.github.io/projects/flight-assist/</link>
       <pubDate>Wed, 29 Nov 2017 12:00:00 -0700</pubDate>
       
-      <guid>http://example.org/projects/flight-assist/</guid>
+      <guid>https://naosyth.github.io/projects/flight-assist/</guid>
       <description>FlightAssist on Github
 Introduction FlightAssist is a collection of programs I wrote using the in-game programming feature of a game called Space Engineers. These in-game programs solve a number of problems I and many other players have faced when designing and operating vehicles. The first and most complex program, later known as the vector module, started just as a fun way to apply linear algebra (my favorite genre of math) in a tangible way.</description>
     </item>
     
     <item>
       <title>Night Vision (3D Printing)</title>
-      <link>http://example.org/projects/night-vision/</link>
+      <link>https://naosyth.github.io/projects/night-vision/</link>
       <pubDate>Tue, 12 Jan 2016 12:00:00 -0700</pubDate>
       
-      <guid>http://example.org/projects/night-vision/</guid>
+      <guid>https://naosyth.github.io/projects/night-vision/</guid>
       <description>About This Project I have always been a huge fan of Tom Clancy&amp;rsquo;s Splinter Cell, so one of the first things I did when I got my 3D printer was to model and print my own pair of Splinter Cell goggles. I wanted these to be functional night vision goggles, unlike a pair of goggles I had made a few years prior. This meant I would have to not only design the goggles to look fairly faithful to the original goggles from the game, but I would also have to design them with room for all of the necessary electronics.</description>
     </item>
     
     <item>
       <title>UNR Submit Website</title>
-      <link>http://example.org/projects/unr-submit-website/</link>
+      <link>https://naosyth.github.io/projects/unr-submit-website/</link>
       <pubDate>Tue, 05 May 2015 12:00:00 -0700</pubDate>
       
-      <guid>http://example.org/projects/unr-submit-website/</guid>
+      <guid>https://naosyth.github.io/projects/unr-submit-website/</guid>
       <description>Submit on GitHub
 About This Project This was my senior project for college, made in a group of three along with Nolan Burfield and Hardy Thrower. It was developed under the guidance of Dr. Fred Harris for use with some of his introductory computer science classes. The web app was built to replace an existing web app being used that allowed students to create accounts and upload programs written in C/C++ and automatically compile them and run them against a suite of tests.</description>
     </item>
     
     <item>
       <title>GraphIt</title>
-      <link>http://example.org/projects/graphit/</link>
+      <link>https://naosyth.github.io/projects/graphit/</link>
       <pubDate>Sat, 09 Aug 2014 12:00:00 -0700</pubDate>
       
-      <guid>http://example.org/projects/graphit/</guid>
+      <guid>https://naosyth.github.io/projects/graphit/</guid>
       <description>GraphIt on GitHub
 About This Project GraphIt was my intern project at Originate in 2014. It is an Android app that tracks various metrics of the user&amp;rsquo;s phone, such as battery level and screen-on time, and graphs the data over time. The goal of this project was to map trends in my phone usage over time, to see trends such as if I use my phone more or less during holidays, how my battery life declines as the battery gets older, or how much data I use on weekdays versus weekends.</description>
     </item>
     
     <item>
       <title>Space Game (CS 381)</title>
-      <link>http://example.org/projects/space-game/</link>
+      <link>https://naosyth.github.io/projects/space-game/</link>
       <pubDate>Fri, 10 May 2013 12:00:00 -0700</pubDate>
       
-      <guid>http://example.org/projects/space-game/</guid>
+      <guid>https://naosyth.github.io/projects/space-game/</guid>
       <description>Space Game on GitHub
 About This Project This is my final project for CS 381 (Game Engine Development). It is a three dimensional game set in space, where the player must protect a cargo ship that is under attack, as it flies towards a jump game. The gameplay is not very imaginative, as the main goal of this project was to implement the control math for character / camera movement and rotation.</description>
     </item>
