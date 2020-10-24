@@ -1,53 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://naosyth.github.io/</loc>
-    <lastmod>2019-01-14T12:00:00-07:00</lastmod>
+    <loc>naosyth.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://naosyth.github.io/projects/</loc>
-    <lastmod>2019-01-14T12:00:00-07:00</lastmod>
+    <loc>naosyth.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://naosyth.github.io/projects/pubgderboards/</loc>
-    <lastmod>2019-01-14T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://naosyth.github.io/projects/flight-assist/</loc>
-    <lastmod>2017-11-29T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://naosyth.github.io/projects/night-vision/</loc>
-    <lastmod>2016-01-12T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://naosyth.github.io/projects/unr-submit-website/</loc>
-    <lastmod>2015-05-05T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://naosyth.github.io/projects/graphit/</loc>
-    <lastmod>2014-08-09T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://naosyth.github.io/projects/space-game/</loc>
-    <lastmod>2013-05-10T12:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://naosyth.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://naosyth.github.io/tags/</loc>
+    <loc>naosyth.github.io/tags/</loc>
   </url>
   
 </urlset>
